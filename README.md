@@ -1,2 +1,1 @@
-# odin-recipes
-Odin Project Lessons
+Odin Project for Recipe Book
